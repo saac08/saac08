@@ -4,7 +4,7 @@
  
  You can follow me in the next sites for see and support my content:
  - 📹 My YouTube Channel [ SolinCode ]()
- - 📱 My Instagram [ alejandro_silvaarvizu ](https://www.instagram.com/alejandro_silvaarvizu/)
+ - 📱 My Instagram [alejandro_silvaarvizu](https://www.instagram.com/alejandro_silvaarvizu/)
  - 📱 My Twwitter [ SolinCode_Of ]()  
 🖥️ And my own blog:
  - [ solincode.com ]()  
