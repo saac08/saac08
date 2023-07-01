@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior FrontEnd Developer<br>🔭 I’m currently working on Coppel<br>👯 I’m looking to collaborate on Spotify<br>🤝 I’m looking for help with TeamWork<br>🌱 I’m currently learning Backend with JavaScript<br>⚡ Fun fact, I'm only 20th
+I'm a Junior FrontEnd Developer<br>🔭 I’m currently working on Coppel<br>👯 I’m looking to collaborate like FrontEnd Developer<br>🤝 I’m looking for help with TeamWork<br>🌱 I’m currently learning Backend with JavaScript<br>⚡ Fun fact, I'm only 20th
 
 
 ## 🌐 Socials:
