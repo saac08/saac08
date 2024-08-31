@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior FrontEnd Developer<br>🔭 I’m currently working on Coppel<br>👯 I’m looking to collaborate like FrontEnd Developer o Product Designer<br>🤝 I’m looking for help with TeamWork<br>🌱 I’m currently learning Backend with JavaScript<br>⚡ Fun fact, I'm only 21th
+I'm a FrontEnd Developer<br>🔭 I’m currently working on Coppel<br>👯 I’m looking to increase my soft and hard skills<br>🤝 I’m looking for challenges to improve my knowledge<br>🌱 I’m currently working with TS, GraphQL, React/NextJS, PostgreSQL and Rest API<br>⚡ Fun fact, I'm only 22th
 
 
 ## 🌐 Socials:
